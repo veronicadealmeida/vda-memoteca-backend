@@ -8,27 +8,21 @@
     },
     {
       "id": 3,
-      "content": "Passo intormações para o componente filho!!!",
-      "authorship": "Componente pai!",
-      "model": "modelo3"
-    },
-    {
-      "id": 4,
-      "content": "Minha propriedade é decorada com @Input",
-      "authorship": "Componente filho",
+      "content": "Passo intormações para o componente filho!!! <3",
+      "authorship": "Componente pai!!!!!!!!!!!!!!!!",
       "model": "modelo3"
     },
     {
       "id": 5,
       "content": "Se hoje é o dia das crianças... Ontem eu disse: o dia da criança é o dia da mãe, dos pais, das professoras, mas também é o dia dos animais, sempre que você olha uma criança, há sempre uma figura oculta, que é um cachorro atrás. O que é algo muito importante!",
-      "authorship": "ngClass - Dilma",
+      "authorship": "Dilma",
       "model": "modelo2"
     },
     {
       "id": 6,
       "content": "Passo intormações para o componente filho",
       "authorship": "Componente pai",
-      "model": "modelo2"
+      "model": "modelo3"
     },
     {
       "id": 7,
@@ -41,6 +35,18 @@
       "authorship": "eu tbm",
       "model": "modelo3",
       "id": 9
+    },
+    {
+      "content": "vovó fará o almoço?",
+      "authorship": "euzinha",
+      "model": "modelo3",
+      "id": 10
+    },
+    {
+      "content": "teste",
+      "authorship": "tttt",
+      "model": "modelo2",
+      "id": 11
     }
   ]
 }
